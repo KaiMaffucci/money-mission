@@ -1,2 +1,2 @@
 # money-mission
-A small terminal game written in C using the ncurses library. 
+A small terminal game for linux written in C using the ncurses library. 
